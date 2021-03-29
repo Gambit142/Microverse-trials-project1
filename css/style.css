@@ -1,15 +1,21 @@
-
-#main {
+#img-container {
     display: flex;
+    width: auto;
+    height: auto;
     justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-    max-height: 100vh;
+}
+#title {
+    text-align: center;
+}
+#img-caption{
+    text-align: center;
+    
+}
+p {
+    text-align: justify;
+    text-justify: inter-word;
+    padding: 30px;
+    margin: auto;
+
 }
 
-#top-container{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
-}
