@@ -1,0 +1,15 @@
+
+#main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    max-height: 100vh;
+}
+
+#top-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
